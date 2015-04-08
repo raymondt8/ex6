@@ -1,0 +1,2 @@
+/home/raymond/Documents/TMA4280/ex6_2/build/CMakeFiles/common.dir
+/home/raymond/Documents/TMA4280/ex6_2/build/CMakeFiles/poisson.dir

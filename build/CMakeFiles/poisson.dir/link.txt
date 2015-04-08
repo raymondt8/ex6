@@ -1,0 +1,1 @@
+/usr/bin/cc   -fopenmp -O3 -DNDEBUG    CMakeFiles/poisson.dir/poissonMain.c.o CMakeFiles/poisson.dir/poissonFunctions.c.o  -o poisson -rdynamic libcommon.a -lmpich -lopa -lmpl -lrt -lcr -lpthread -lgfortran -lm -lquadmath -lm 
